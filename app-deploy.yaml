@@ -5,11 +5,19 @@ metadata:
     architecture: x86_64
     authoritative-source-url: registry.access.redhat.com
     build-date: 2019-10-29T20:35:20.404230
+    commit.image.appsody.dev/author: Bikash Mainali <bikash.mainali@ibm.com>
+    commit.image.appsody.dev/committer: Bikash Mainali <bikash.mainali@ibm.com>
+    commit.image.appsody.dev/date: Wed Dec 11 07:51:02 2019 -0600
+    commit.image.appsody.dev/message: first commit
     description: This image contains the Kabanero development stack for the Nodejs
       Express collection
     distribution-scope: public
     help: For more information visit https://github.com/sclorg/s2i-nodejs-container
-    image.opencontainers.org/created: "2019-12-11T07:46:29-06:00"
+    image.opencontainers.org/created: "2019-12-11T08:02:29-06:00"
+    image.opencontainers.org/documentation: https://github.com/bikashMainaliIBM/pre-final-demo
+    image.opencontainers.org/revision: bb2c9a979571cd85a65adf3a140f08df5abe4e05
+    image.opencontainers.org/source: https://github.com/bikashMainaliIBM/pre-final-demo/tree/master
+    image.opencontainers.org/url: https://github.com/bikashMainaliIBM/pre-final-demo
     k8s.io/description: Node.js 10 available as container is a base platform for building
       and running various Node.js 10 applications and frameworks. Node.js is a platform
       built on Chrome's JavaScript runtime for easily building fast, scalable network
